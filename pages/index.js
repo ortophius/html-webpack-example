@@ -1,0 +1,1 @@
+require('./index.html') // add all technologies of BEM blocks from index.html
