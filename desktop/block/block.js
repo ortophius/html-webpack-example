@@ -1,1 +1,1 @@
-console.log('Fuck ya!');
+console.log('Success!');
