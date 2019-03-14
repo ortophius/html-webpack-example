@@ -5,4 +5,4 @@ All technologies is added to bundle based only on HTML code. You only need to `r
 ```javascript
 require('./index.html');
 ```
-This is a just example of how `html2bemdecl-loader` and `bemdecl-to-fs-loader` plugins may be used. There is many other ways to build your project with it.
+This is a just example of how `html2bemdecl-loader` and `bemdecl-to-fs-loader` may be used. There is many other ways to build your project with it.
