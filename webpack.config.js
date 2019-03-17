@@ -1,7 +1,5 @@
 const webpack = require('webpack');
 const path = require('path');
-const html2bemdecl = require('html2bemdecl-loader');
-const bemdecl2fs = require('bemdecl-to-fs-loader');
 const Copy = require('copy-webpack-plugin');
 
 module.exports = {
